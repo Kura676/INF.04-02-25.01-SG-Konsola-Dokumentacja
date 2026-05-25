@@ -22,7 +22,7 @@ namespace Egzamin
             }
 
             Console.WriteLine("Podano niepoprawny numer programu");
-            numerProgramu = podanyNumerProgramu;
+            numerProgramu = 0;
             return 0;
 
         }
